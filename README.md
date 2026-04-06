@@ -17,8 +17,9 @@ Used internally to manage ATK stock and streamline request processes in daily op
 - HTML, CSS, JavaScript
 
 ### Impact
-- Reduces manual input
-- Improves efficiency
+- Reduces manual data entry
+- Improves reporting efficiency
+- Minimizes human error
 
 ### Preview
 
