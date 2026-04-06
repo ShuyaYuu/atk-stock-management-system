@@ -1,4 +1,4 @@
-###This project was developed to automate ATK stock management and improve operational efficiency in real-world usage.
+### This project was developed to automate ATK stock management and improve operational efficiency in real-world usage.
 ### ATK Stock Management System (Google Apps Script)
 
 #### Description
